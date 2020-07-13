@@ -21,4 +21,8 @@ This exercise is composed of 3 tasks that we required you to know how to perform
 
 Feel free to ask **any questions** you might have during the development of the exercise.
 
+### Show me the code
+
+Send us the code compacted on a zip or tar.gz using the email: sre@pipefy.com
+
 Thank you!
