@@ -1,6 +1,6 @@
 ## Pipefy's Recruitment Exercises for Site Reliability Engineer
 
-*NOTE*: Do not make any pull request to this repository with the exercise results, we'll send an email with additional information on how to report us about it.
+**NOTE**: Do not make any pull request to this repository with the exercise results, we'll send an email with additional information on how to report us about it.
 
 ## Recruitment Exercise - Pipefy
 
