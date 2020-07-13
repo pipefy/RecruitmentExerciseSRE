@@ -8,7 +8,7 @@ The objective is to evaluate your knowledge and experience with Cloud Infrastruc
 
 This exercise is composed of 3 tasks that we required you to know how to perform:
 
-- Build a containerized application, anything with a sample webpage with Hello world or something like that, after that we just need that you create a Dockerfile and send the image generated to Dockerhub.
+- Build a containerized application, anything with a sample webpage with Hello world or something like that, after that we just need that you create a Dockerfile and send the image generated to Docker Hub.
 - Create a kubernetes receipt to use the image created considering 3 main components: Deployment file, services, and a Configmap if needed.
 - Build a simple infrastructure using Terraform 12 on AWS. You can choose to build a receipt to spin up an RDS database or Elasticache.
 
