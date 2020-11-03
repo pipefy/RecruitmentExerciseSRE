@@ -11,7 +11,7 @@ This exercise is composed of three tasks that will be required you to know how t
 - Build a containerized application, anything with a sample webpage with 'Hello World!' or something like that, after that we just need that you create a Dockerfile and send the build image to Docker Hub.
 - Create the Kubernetes manifests to use the image created considering three main components: Deployment file, Service, and a Configmap if needed.
 - This 'Hello World!' app must print some [ENV VARS](https://en.wikipedia.org/wiki/Environment_variable) freely created by you on the Kubernetes manifests.
-- Build a simple infrastructure using Terraform 12 on AWS. You can choose between an RDS database or Elasticache.
+- Build a simple infrastructure using Terraform 12 or higher on AWS. You can choose between an RDS database or Elasticache.
 
 ### We also expect the following:
 
